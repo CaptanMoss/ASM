@@ -1,2 +1,5 @@
-# ASM
+# ASSEMBLY
+
+Assembly Öğrenme
 Assembly Tutorial
+
